@@ -23,6 +23,6 @@ Open a terminal in the directory containing the program files and run:
 
 ```sh
 make
-
+```
 ### TODO
-gui (soon™)
+* gui (soon™)
