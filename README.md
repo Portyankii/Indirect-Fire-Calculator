@@ -3,6 +3,7 @@
 ## Overview
 
 `IndirectFireRange` is a simple Fortran program that calculates the estimated range to a target square on a grid map. The program uses the size of each square in meters, the user's current square, and the target square to compute the range.
+note that as square size, increases, accuracy decreases due to how the math is done
 
 ## Input Format
 
